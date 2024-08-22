@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import '../styles/CalculatorForm'; // Opcional: Importar o CSS para estilização
+import '../styles/CalculatorForm.css'; // Opcional: Importar o CSS para estilização
 
 const CalculatorForm = ({ onCalculate }) => {
   // Estados para armazenar os valores dos inputs
